@@ -8,3 +8,4 @@ aiofiles
 youtube-search-python
 speedtest-cli
 numpy
+python==3.10.9
